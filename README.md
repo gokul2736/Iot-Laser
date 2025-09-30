@@ -134,12 +134,8 @@ Comment out the two print lines again and re-upload the code one last time.
 
 Deploy and Use:
 
-Disconnect the ESP8266 from your computer. You can now power it with any USB phone charger.
-
-Place the laser module and the sensor module across a doorway or the area you want to protect, ensuring the laser hits the sensor.
-
-On your phone (connected to the same hostel Wi-Fi), open a browser and type in the IP Address you wrote down.
-
-You will see the control panel to ARM and DISARM the system.
-
-You are all done! When the system is armed and someone breaks the beam, you will get a WhatsApp message.
+- Disconnect the ESP8266 from your computer. You can now power it with any USB phone charger.
+- Place the laser module and the sensor module across a doorway or the area you want to protect, ensuring the laser hits the sensor.
+- On your phone (connected to the same hostel Wi-Fi), open a browser and type in the IP Address you wrote down.
+- You will see the control panel to ARM and DISARM the system.
+- You are all done! When the system is armed and someone breaks the beam, you will get a WhatsApp message.
